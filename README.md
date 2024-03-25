@@ -10,15 +10,14 @@
 
 A collection of academic articles, published methodology, and datasets on the subject of **Privacy-Preserving Explainable AI**.
 
-- [Awesome-PrivEx](#awesome-privex)
+- [A Survey of Privacy-Preserving Model Explanations: Privacy Leaks, Attacks, and Countermeasures](#awesome-privex)
   - [Surveys](#existing-surveys)
-  - [Privacy-Preserving Model Explanations](#approaches)
+  - [Approaches](#approaches)
   - [Datasets](#datasets)
     - [Type: Image](#type-image)
     - [Type: Tabular](#type-tabular)
-    - [Type: Text](#type-text)
-    - [Type: Sequence](#type-sequence)
     - [Type: Graph](#type-graph)
+    - [Type: Text](#type-text)
   - [Evaluation Metrics](#evaluation-metrics)
 
 A sortable version is available here: https://awesome-privex.github.io/
@@ -30,8 +29,14 @@ A sortable version is available here: https://awesome-privex.github.io/
 | --------------- | ---- | ---- | 
 | [A Survey of Privacy Attacks in Machine Learning](https://dl.acm.org/doi/full/10.1145/3624010) | _CSUR_ | 2023 |
 | [SoK: Taming the Triangle -- On the Interplays between Fairness, Interpretability and Privacy in Machine Learning](https://arxiv.org/abs/2312.16191) | _arXiv_ | 2023 |
+
 ----------
 
+## Approaches
+
+| **Paper Title** | **Year** | **Venue** | **Target Explanation** | **Attacks** | **Defenses** | **Code** |
+| --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| [Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations]([https://arxiv.org/abs/2310.12508](https://dl.acm.org/doi/abs/10.1145/3580305.3599343)) | 2023 | _KDD_ | Counterfactual | - | Perturbation | [[Code]]([https://github.com/OPTML-Group/Unlearn-Saliency](https://github.com/isVy08/L2C/)) |
 
 ----------
 **Disclaimer**
