@@ -36,7 +36,7 @@ A sortable version is available here: https://awesome-privex.github.io/
 
 | **Paper Title** | **Year** | **Venue** | **Target Explanation** | **Attacks** | **Defenses** | **Code** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
-| [Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations]([https://arxiv.org/abs/2310.12508](https://dl.acm.org/doi/abs/10.1145/3580305.3599343)) | 2023 | _KDD_ | Counterfactual | - | Perturbation | [[Code]]([https://github.com/OPTML-Group/Unlearn-Saliency](https://github.com/isVy08/L2C/)) |
+| [Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations]([https://arxiv.org/abs/2310.12508](https://dl.acm.org/doi/abs/10.1145/3580305.3599343)) | 2023 | _KDD_ | Counterfactual | - | Perturbation | [[Code]]([https://github.com/isVy08/L2C/]) |
 
 ----------
 **Disclaimer**
