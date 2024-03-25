@@ -34,7 +34,7 @@ A sortable version is available here: https://awesome-privex.github.io/
 
 ## Approaches
 
-| **Title** | **Year** | **Venue** | **Target Explanation** | **Attacks** | **Defenses** | **Code** |
+| **Title** | **Year** | **Venue** | **Target Explanations** | **Attacks** | **Defenses** | **Code** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
 | [Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations](https://dl.acm.org/doi/abs/10.1145/3580305.3599343) | 2023 | _KDD_ | Counterfactual | - | Perturbation | [[Code]](https://github.com/isVy08/L2C/) |
 | DP-XAI | 2023 | _Github_ | ALE plot | - | Differential Privacy | [[Code]](https://github.com/lange-martin/dp-global-xai) |
