@@ -1,4 +1,4 @@
-# Awesome Privacy-Preserving Explainable AI
+# Awesome Privacy-Preserving Explainable AI (PrivEx, PPXAI)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Official%20Website&up_color=green&up_message=online&url=https%3A%2F%2Fawesome-privex.github.io%2F)](https://awesome-privex.github.io/)
@@ -7,6 +7,21 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 
+
+A collection of academic articles, published methodology, and datasets on the subject of **Privacy-Preserving Explainable AI**.
+
+- [Awesome-PrivEx](#awesome-privex)
+  - [Surveys](#existing-surveys)
+  - [Privacy-Preserving Model Explanations](#approaches)
+  - [Datasets](#datasets)
+    - [Type: Image](#type-image)
+    - [Type: Tabular](#type-tabular)
+    - [Type: Text](#type-text)
+    - [Type: Sequence](#type-sequence)
+    - [Type: Graph](#type-graph)
+  - [Evaluation Metrics](#evaluation-metrics)
+
+A sortable version is available here: https://awesome-privex.github.io/
 
 
 
