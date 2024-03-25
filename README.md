@@ -29,8 +29,7 @@ A sortable version is available here: https://awesome-privex.github.io/
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
 | [A Survey of Privacy Attacks in Machine Learning](https://dl.acm.org/doi/full/10.1145/3624010) | _CSUR_ | 2023 |
-| [SoK: Taming the Triangle -- On the Interplays between Fairness, Interpretability and Privacy in Machine Learning
-](https://arxiv.org/abs/2312.16191) | _arXiv_ | 2023 |
+| [SoK: Taming the Triangle -- On the Interplays between Fairness, Interpretability and Privacy in Machine Learning](https://arxiv.org/abs/2312.16191) | _arXiv_ | 2023 |
 ----------
 
 
