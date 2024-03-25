@@ -23,6 +23,13 @@ A collection of academic articles, published methodology, and datasets on the su
 
 A sortable version is available here: https://awesome-privex.github.io/
 
+----------
+
+## Existing Surveys
+| **Paper Title** | **Venue** | **Year** | 
+| --------------- | ---- | ---- | 
+| [A Survey of Privacy Attacks in Machine Learning](https://dl.acm.org/doi/full/10.1145/3624010) | _CSUR_ | 2023 |
+----------
 
 
 ----------
