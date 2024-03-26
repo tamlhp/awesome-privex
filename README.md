@@ -1,4 +1,4 @@
-# Awesome Privacy-Preserving Explainable AI (PrivEx, PPXAI)
+# Awesome PrivEx: Privacy-Preserving Explainable AI (PPXAI)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Official%20Website&up_color=green&up_message=online&url=https%3A%2F%2Fawesome-privex.github.io%2F)](https://awesome-privex.github.io/)
