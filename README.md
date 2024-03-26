@@ -27,8 +27,13 @@ A sortable version is available here: https://awesome-privex.github.io/
 ## Existing Surveys
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
+| [Adversarial attacks and defenses in explainable artificial intelligence: A survey](https://www.sciencedirect.com/science/article/pii/S1566253524000812) | _Information Fusion_ | 2024 |
 | [A Survey of Privacy Attacks in Machine Learning](https://dl.acm.org/doi/full/10.1145/3624010) | _CSUR_ | 2023 |
 | [SoK: Taming the Triangle -- On the Interplays between Fairness, Interpretability and Privacy in Machine Learning](https://arxiv.org/abs/2312.16191) | _arXiv_ | 2023 |
+| [When Machine Learning Meets Privacy: A Survey and Outlook](https://dl.acm.org/doi/abs/10.1145/3436755) | _CSUR_ | 2021 |
+| [Explaining Explanations: An Overview of Interpretability of Machine Learning](https://ieeexplore.ieee.org/abstract/document/8631448/) | _DSAA_ | 2018 |
+| [A Survey of Methods for Explaining Black Box Models](https://dl.acm.org/doi/abs/10.1145/3236009) | _CSUR_ | 2018 |
+| [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3264418) | _CCS_ | 2018 |
 
 ----------
 
