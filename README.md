@@ -10,7 +10,7 @@
 
 A collection of academic articles, published methodology, and datasets on the subject of **Privacy-Preserving Explainable AI**.
 
-- [A Survey of Privacy-Preserving Model Explanations: Privacy Leaks, Attacks, and Countermeasures](#awesome-privex)
+- [A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures](#awesome-privex)
   - [Surveys](#existing-surveys)
   - [Approaches](#approaches)
   - [Datasets](#datasets)
