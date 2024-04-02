@@ -23,6 +23,10 @@ A collection of academic articles, published methodology, and datasets on the su
 
 A sortable version is available here: https://awesome-privex.github.io/
 
+Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-2404.00673-b31b1b.svg)](https://arxiv.org/abs/2404.00673)
+
+
+
 ----------
 
 ## Existing Surveys
