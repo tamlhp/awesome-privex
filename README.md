@@ -13,6 +13,7 @@ A collection of academic articles, published methodology, and datasets on the su
 
 - [A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures](#awesome-privex)
   - [Surveys](#existing-surveys)
+  - [Taxonomy](#taxonomy)
   - [Approaches](#approaches)
   - [Datasets](#datasets)
     - [Type: Image](#type-image)
@@ -52,6 +53,10 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-240
 | [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://dl.acm.org/doi/abs/10.1145/3243734.3264418) | _CCS_ | 2018 |
 
 ----------
+
+## Taxonomy
+
+[![taxonomy](taxonomy1.png)](https://arxiv.org/abs/2404.00673)
 
 ## Approaches
 
