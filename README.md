@@ -58,6 +58,8 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-240
 
 [![taxonomy](taxonomy1.png)](https://arxiv.org/abs/2404.00673)
 
+----------
+
 ## Approaches
 
 | **Title** | **Year** | **Venue** | **Target Explanations** | **Attacks** | **Defenses** | **Code** |
