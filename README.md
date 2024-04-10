@@ -100,6 +100,14 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-240
 | [Collaborative Explanation of Deep Models with Limited Interaction for Trade Secret and Privacy Preservation](https://dl.acm.org/doi/10.1145/3308560.3317586) | 2019 | _WWW_ | Feature-based | - | Collaborative rule-based model | - |
 | [Model inversion attacks that exploit confidence information and basic countermeasures](https://dl.acm.org/doi/abs/10.1145/2810103.2813677) | 2015 | _CCS_ | Confidence scores | Reconstruction, Model Inversion | - | - |
 
+----------
+
+## Datasets
+
+### Type: Image
+| Dataset | #Items | Disk Size | Downstream Explanations | #Papers Used |
+| :-- | --- | --- | --- | --- |
+
 
 ----------
 ## Evaluation Metrics
