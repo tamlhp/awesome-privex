@@ -107,7 +107,41 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-240
 ### Type: Image
 | Dataset | #Items | Disk Size | Downstream Explanations | #Papers Used |
 | :-- | --- | --- | --- | --- |
+| [MNIST](www.kaggle.com/datasets/hojjatk/mnist-dataset) | 70K | 11MB | Counterfactuals, Gradient | 4 |
+| [CIFAR](www.cs.toronto.edu/~kriz/cifar.html) | 60K | 163MB | Gradient | 4 |
+| [SVHN](ufldl.stanford.edu/housenumbers/) | 600K | 400MB+ | Gradient | 1 |
+| [Food101](www.kaggle.com/datasets/dansbecker/food-101) | 100K+ | 10GB | Case-based | 1 |
+| [Flowers102](www.robots.ox.ac.uk/~vgg/data/flowers/102/) | 8K+ | 300MB+ | Case-based | 1 |
+| [Cervical](www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening) | 8K+ | 46GB+ | Case-based, Interpretable Models | 1 |
+| [CheXpert](stanfordmlgroup.github.io/competitions/chexpert/) | 220K+ | GBs | Black-box | 1 |
+| [Facial Expression](www.kaggle.com/datasets/msambare/fer2013) | 12K+ | 63MB | Gradient | 1 |
+| [Celeb](mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | 200K | GBs | Counterfactuals, Shapley, Gradient, Perturbation | 3 |
 
+### Type: Tablular
+| Dataset | #Items | Disk Size | Downstream Explanations | #Papers Used |
+| :-- | --- | --- | --- | --- |
+| [Adult](archive.ics.uci.edu/ml/datasets/adult) | 48K+ | 10MB | Counterfactuals, Shapley | 5 |
+| [COMPAS](www.kaggle.com/datasets/danofer/compass) | 7K+ | 25MB | Counterfactuals, Shapley | 4 |
+| [FICO](community.fico.com/s/explainable-machine-learning-challenge) | 10K+ | ≤ 1MB | Counterfactuals, Shapley | 3 |
+| [Boston Housing](www.kaggle.com/code/prasadperera/the-boston-housing-dataset) | 500+ | ≤ 1MB | Counterfactuals, Shapley | 3 |
+| [German Credit](archive.ics.uci.edu/dataset/144/statlog+german+credit+data) | 1K | ≤ 1MB | Counterfactuals, Shapley | 2 |
+| [Student Admission](www.kaggle.com/datasets/mohansacharya/graduate-admissions) | 500 | ≤ 1MB | Counterfactuals, Shapley, Gradient, Perturbation | 5 |
+| [Student Performance](www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression) | 10K | ≤ 1MB | Counterfactuals, Shapley | 2 |
+| [GMSC](www.kaggle.com/c/GiveMeSomeCredit/data) | 150K+ | 15MB | Interpretable models, Counterfactuals | 4 |
+| [Diabetes](archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008) | 100K+ | 20MB | Feature-based | 3 |
+| [Breast Cancer](archive.ics.uci.edu/ml/datasets/breast+cancer) | 569 | < 1MB | Feature-based | 3 |
+
+### Type: Graph
+| Dataset | #Items | Disk Size | Downstream Explanations | #Papers Used |
+| :-- | --- | --- | --- | --- |
+| [Cora](relational.fit.cvut.cz/dataset/CORA) | 2K+ | 4.5MB | Feature-based | 4 |
+| [Bitcoin](snap.stanford.edu/data/soc-sign-bitcoin-alpha.html) | 30K | ≤ 1MB | Counterfactuals | 3 |
+
+### Type: Text
+| Dataset | #Items | Disk Size | Downstream Explanations | #Papers Used |
+| :-- | --- | --- | --- | --- |
+| [CIC-IDS2017](www.unb.ca/cic/datasets/ids-2017.html) | 2.8M+ | 500MB | Black-box | 1 |
+| [IMDB Review](ai.stanford.edu/~amaas/data/sentiment/) | 50K | 66MB | Black-box | 1 |
 
 ----------
 ## Evaluation Metrics
