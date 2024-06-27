@@ -24,11 +24,20 @@ A collection of academic articles, published methodology, and datasets on the su
 
 A sortable version is available here: https://awesome-privex.github.io/
 
+## 🔖 News!!!
+
+📌 We are actively tracking the **latest research** and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
+
+📰 2024-06-27: Our paper **A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures
+** has been revised into version 2 with new methods and dicussions.
+
+## 🔍 Citation
+
+If you find this work helpful in your research, welcome to cite the paper and give a ⭐.
+
 Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-2404.00673-b31b1b.svg)](https://arxiv.org/abs/2404.00673)
 
 >Nguyen, T.T., Huynh, T.T., Ren, Z., Nguyen, T.T., Nguyen, P.L., Yin, H. and Nguyen, Q.V.H., 2024. A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. arXiv preprint arXiv:2404.00673.
-
-## Citation
 
 ```
 @article{nguyen2024survey,
