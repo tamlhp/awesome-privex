@@ -28,8 +28,7 @@ A sortable version is available here: https://awesome-privex.github.io/
 
 📌 We are actively tracking the **latest research** and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
 
-📰 2024-06-27: Our paper **A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures
-** has been revised into version 2 with new methods and dicussions.
+📰 2024-06-27: Our paper **A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures** has been revised into version 2 with new methods and dicussions.
 
 ## 🔍 Citation
 
