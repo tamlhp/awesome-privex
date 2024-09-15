@@ -52,6 +52,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-240
 ## Existing Surveys
 | **Paper Title** | **Venue** | **Year** | 
 | --------------- | ---- | ---- | 
+| [Privacy-Preserving Explainable AI: A Survey](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4123-4) | _SCIS_ | 2024 |
 | [Adversarial attacks and defenses in explainable artificial intelligence: A survey](https://www.sciencedirect.com/science/article/pii/S1566253524000812) | _Information Fusion_ | 2024 |
 | [A Survey of Privacy Attacks in Machine Learning](https://dl.acm.org/doi/full/10.1145/3624010) | _CSUR_ | 2023 |
 | [SoK: Taming the Triangle -- On the Interplays between Fairness, Interpretability and Privacy in Machine Learning](https://arxiv.org/abs/2312.16191) | _arXiv_ | 2023 |
